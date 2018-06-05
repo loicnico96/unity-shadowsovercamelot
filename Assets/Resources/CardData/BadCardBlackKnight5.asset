@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77434c7e35ccbbc44828399ebae8bba8, type: 3}
+  m_Name: BadCardBlackKnight5
+  m_EditorClassIdentifier: 
+  cardId: 1105
+  cardName: Black Knight 5
+  cardDescription: Place this card on the Black Knight's tournament.
+  isWhiteCard: 0
+  isBlackCard: 1
+  isSpecialCard: 0
+  isFightCard: 1
+  fightValue: 5
+  fightValue2: 5
+  numCopies: 2

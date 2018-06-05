@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5424ef6d524e284c8cc30a95a664a44, type: 3}
+  m_Name: GoodActionHomeFight
+  m_EditorClassIdentifier: 
+  commandId: 2048
+  commandName: Battle a siege engine
+  commandDescription: Discard any number of Fight cards to battle a siege engine.
+    If you win the fight, it is destroyed. If you lose the fight, you lose 1 HP.
+  isBadAction: 0
+  isGoodAction: 0
+  isBonusAction: 1
+  isHeroPower: 0
+  requiredHero: 0
+  requiredRegion: 1
+  overridesAction: 0
